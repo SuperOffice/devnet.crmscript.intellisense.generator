@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "devnet.crmscript.intellisense.generator": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\temp\\ejscriptIntellisense.js D:\\Docs\\build-docs\\superoffice-docs\\docs\\automation\\crmscript\\reference"
+    }
+  }
+}
